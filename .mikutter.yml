@@ -1,0 +1,9 @@
+---
+slug: :extract_protected
+depends:
+  mikutter: 3.8.7
+  plugin: []
+version: '1.0'
+author: shibafu528
+name: 'extract_protected'
+description: '抽出タブの条件に「非公開ツイート」を追加します。'
